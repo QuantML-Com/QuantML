@@ -33,6 +33,12 @@
 
 ### QUANTML-QLIB 相关 ### 
 
+- [QuantML-Qlib Factor | DeepSeek自动因子挖掘及优化方案](https://mp.weixin.qq.com/s/GuNe_sf8S6qesgBn00Vz8g)
+
+- [QuantML-Qlib Model | 复现DeepSeek核心结构用于选股](https://mp.weixin.qq.com/s/eUKoT2VoAUpUJUk8QdIw0w)
+
+- [QuantML-Qlib Factor | 融合TA-Lib100+技术指标，自定义构建AlphaZoo](https://mp.weixin.qq.com/s/-GhQltRShyGJqLZ2wJaTfA)
+
 - [QuantML-Qlib LLM | GPT-4o复现因子计算代码](http://mp.weixin.qq.com/s?__biz=Mzg2MzAwNzM0NQ==&mid=2247484355&idx=1&sn=0e2e068277314d93d0373ad5e1b0da82&chksm=ce7e64ddf909edcb0f2894f353b26825800a7862dfb6a53b692b212ae5e93e43c0d7b1ee71cf#rd) 
 
 - [QuantML-QlibDB | Clickhouse 行情存储与读取方案](http://mp.weixin.qq.com/s?__biz=Mzg2MzAwNzM0NQ==&mid=2247484391&idx=1&sn=b56d54740da5d77bef608d787033e321&chksm=ce7e64f9f909edef46da039efbeaf07b636ef08477a3f4ba2b49dea329d2c29b71635a809aca#rd) 
@@ -44,6 +50,13 @@
 ### paper 相关 ### 
 
 - [券商研报因子复现及表现研究](http://mp.weixin.qq.com/s?__biz=Mzg2MzAwNzM0NQ==&mid=2247484329&idx=1&sn=24f18ad20fc0a44ba09a19d43becf651&chksm=ce7e64b7f909eda171118d001451a569509a67bb2d486f5affdaa2824dab5b824ee4bd7b3052#rd) 
+
+- [Kaggle - Optiver trading at the close第一名解决方案及部分代码
+](https://mp.weixin.qq.com/s/5sLVB6GwcdQXvkE2T82KCg)
+
+- [TradingAgents：基于多智能体LLM的金融交易框架](https://mp.weixin.qq.com/s/7mDnrEOucf6i8yEGkyIc2w)
+
+- [DeepScalper：深度强化学习捕捉日内交易的短暂机会](https://mp.weixin.qq.com/s/SnMejEiC4Ebt8_k8G4iJoA)
 
 - [AAAI-2024 | MASTER 结合市场信息的自动特征选择的股票预测模型，25%年化收益，附代码](http://mp.weixin.qq.com/s?__biz=Mzg2MzAwNzM0NQ==&mid=2247483818&idx=1&sn=8f17951f57c801a612c7d47f3e1c3a77&chksm=ce7e66b4f909efa2a462cb0640427342a98fe733beeb3e275b1625b9e6f72dcd29a5adb196f6#rd) 
 
@@ -64,9 +77,13 @@ MORE:  [公众号QuantML](https://github.com/chaosquant2022/ML-Quant/tree/main/p
 
 ## **QUANT-RESOURCES**:
 
-- Awesome-quant [awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
+- [Awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
 
-- Awesome-quant(Chinese) [awesome-quant](https://github.com/thuquant/awesome-quant)<br>
+- [Awesome-quant(Chinese)](https://github.com/thuquant/awesome-quant)
+
+- [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading)
+
+- [量化交易全攻略：从入门到精通的终极指南](https://mp.weixin.qq.com/s/Pb4OwqJevY1e2qA7aSIJ2w)
 
 <BR>
 
