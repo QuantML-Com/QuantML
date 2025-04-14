@@ -33,6 +33,8 @@
 
 ### QUANTML-QLIB 相关 ### 
 
+- [<font color="orange">QuantML-Qlib 教程</font>](https://mp.weixin.qq.com/s/3RM5nH7WXs-X8LFEcZwCwg)
+
 - [QuantML-Qlib Factor | DeepSeek自动因子挖掘及优化方案](https://mp.weixin.qq.com/s/GuNe_sf8S6qesgBn00Vz8g)
 
 - [QuantML-Qlib Model | 复现DeepSeek核心结构用于选股](https://mp.weixin.qq.com/s/eUKoT2VoAUpUJUk8QdIw0w)
