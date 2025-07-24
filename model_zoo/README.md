@@ -55,7 +55,7 @@
 |TiDGE|[LINK](https://arxiv.org/abs/2304.08424)|RNN+MLP|0.04695|3.83880|2.13%|0.21000|33.73%|5.86%|0.54744|12.41%|[PLOT](./PLOT/backtest_result_tidge_single_d5_top400_drop400_alpha360.html)
 |PITS|[LINK](https://arxiv.org/pdf/2312.16427.pdf)|MLP|0.04805|2.90522|13.39%|0.77905|21.82%|16.08%|1.28619|9.51%|[PLOT](./PLOT/backtest_result_pits_single_d5_top400_drop400_alpha360.html)
 |Mamba|[LINK](https://arxiv.org/abs/2211.14730)|Mamba|0.04397|2.09226|13.97%|0.82630|16.695%|16.697%| 1.17536|10.75%|[PLOT](./PLOT/backtest_result_mamba_single_d5_top400_drop400_alpha360.html)
-
+|FactorVAE|[LINK]()|VAE|0.07619|5.11026|||||||
 
 
 #### **Meta Learning**
@@ -95,11 +95,11 @@
 |DA-RNN|[LINK](https://www.ijcai.org/Proceedings/2017/0366.pdf)|RNN| 0.10103 | 8.31038| 27.39% | 1.31741 | 27.97% | 31.70% | 2.02836 | 13.37% | [PLOT](./PLOT/backtest_result_alstm_single_d5_top400_drop400_alpha158.html) | 
 |TCN|[LINK](https://arxiv.org/abs/1803.01271)|CNN|0.08950|8.27738|21.36%|1.12395|26.38%|25.54%|1.96430|10.00%|[PLOT](./PLOT/backtest_result_tcn_single_d5_top400_drop400_alpha158.html)|
 |Transformer|[LINK](https://arxiv.org/abs/1706.03762)|Attn|0.09171|7.50230|28.53%|1.43050|23.91%|32.68%|2.16476|11.60%|[PLOT](./PLOT/backtest_result_transformer_single_d5_top400_drop400_alpha158.html)|
-|gFormer|[LINK]()|RNN+Attn|0.09340|7.31510|33.66%|1.42288|24.03%|36.86%|2.12846|12.48%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
+<!-- |gFormer|[LINK]()|RNN+Attn|0.09340|7.31510|33.66%|1.42288|24.03%|36.86%|2.12846|12.48%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
 |gFormer-opt|[LINK]()|RNN+Attn|0.09382|7.38986|37.17%|1.52404|23.60%|40.42%|2.24242|12.76%|[PLOT](./PLOT/backtest_result_gformer_single_d5_top400_drop400_alpha158.html)|
 |gFormerMoEx5L|[LINK]()|RNN+Attn|0.09745|6.54406|37.32%|1.49430|24.44%|40.59%|2.14049|13.45%|[PLOT]()|
 |gFormerMoEx5A|[LINK]()|RNN+Attn|0.09963|6.88065|36.24%|1.49982|23.68%|39.48%|2.14724|12.48%|[PLOT]()|
-|gMamba|[LINK]()|RNN+Mamba|0.08153|7.22315|27.14%|1.27485|22.83%|30.17%|2.08875|11.09%|[PLOT](./PLOT/backtest_result_all_gmamba_single_d5_top400_drop400_alpha158.html)|
+|gMamba|[LINK]()|RNN+Mamba|0.08153|7.22315|27.14%|1.27485|22.83%|30.17%|2.08875|11.09%|[PLOT](./PLOT/backtest_result_all_gmamba_single_d5_top400_drop400_alpha158.html)| -->
 
 
 ## SELF-SUPERVISED PRE-TRAINED MODEL
